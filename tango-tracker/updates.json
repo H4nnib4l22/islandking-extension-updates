@@ -1,0 +1,13 @@
+{
+  "addons": {
+    "islandking-tango-tracker@local": {
+      "updates": [
+        {
+          "version": "0.6.9.1",
+          "update_link": "https://raw.githubusercontent.com/H4nnib4l22/islandking-extension-updates/main/tango-tracker/islandking-tango-tracker-0.6.9.1.xpi",
+          "update_hash": "sha256:PENDING"
+        }
+      ]
+    }
+  }
+}

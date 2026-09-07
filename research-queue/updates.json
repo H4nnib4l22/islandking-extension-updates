@@ -1,0 +1,13 @@
+{
+  "addons": {
+    "islandking-research-queue@local": {
+      "updates": [
+        {
+          "version": "0.2.3.3",
+          "update_link": "https://raw.githubusercontent.com/H4nnib4l22/islandking-extension-updates/main/research-queue/islandking-research-queue-0.2.3.3.xpi",
+          "update_hash": "sha256:PENDING"
+        }
+      ]
+    }
+  }
+}

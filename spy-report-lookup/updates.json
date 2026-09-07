@@ -1,0 +1,13 @@
+{
+  "addons": {
+    "islandking-spy-lookup@islandking.ch": {
+      "updates": [
+        {
+          "version": "1.0.2.2",
+          "update_link": "https://raw.githubusercontent.com/H4nnib4l22/islandking-extension-updates/main/spy-report-lookup/islandking-spy-report-lookup-1.0.2.2.xpi",
+          "update_hash": "sha256:PENDING"
+        }
+      ]
+    }
+  }
+}
