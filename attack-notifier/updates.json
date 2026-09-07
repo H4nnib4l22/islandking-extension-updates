@@ -3,9 +3,9 @@
     "islandking-attack-notifier@local": {
       "updates": [
         {
-          "version": "0.2.1.2",
-          "update_link": "https://raw.githubusercontent.com/H4nnib4l22/islandking-extension-updates/main/attack-notifier/islandking-attack-notifier-0.2.1.2.xpi",
-          "update_hash": "sha256:PENDING"
+          "version": "0.2.1.3",
+          "update_link": "https://raw.githubusercontent.com/H4nnib4l22/islandking-extension-updates/main/attack-notifier/islandking_notifier_V0.2.1.3.xpi",
+          "update_hash": "sha256:75a6224b69ee4106a99de17c46be7d9920ea327a251582017c35067ed84c446a"
         }
       ]
     }

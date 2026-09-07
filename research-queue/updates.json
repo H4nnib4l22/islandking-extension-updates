@@ -3,9 +3,9 @@
     "islandking-research-queue@local": {
       "updates": [
         {
-          "version": "0.2.3.3",
-          "update_link": "https://raw.githubusercontent.com/H4nnib4l22/islandking-extension-updates/main/research-queue/islandking-research-queue-0.2.3.3.xpi",
-          "update_hash": "sha256:PENDING"
+          "version": "0.2.3.4",
+          "update_link": "https://raw.githubusercontent.com/H4nnib4l22/islandking-extension-updates/main/research-queue/forschungs_queue_v0.2.3.4.xpi",
+          "update_hash": "sha256:d86b7420c7a0eba442adc383fb9d88949ed06c575784f1bcdc4947eb6f62a7ac"
         }
       ]
     }

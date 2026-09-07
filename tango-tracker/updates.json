@@ -3,9 +3,9 @@
     "islandking-tango-tracker@local": {
       "updates": [
         {
-          "version": "0.6.9.1",
-          "update_link": "https://raw.githubusercontent.com/H4nnib4l22/islandking-extension-updates/main/tango-tracker/islandking-tango-tracker-0.6.9.1.xpi",
-          "update_hash": "sha256:PENDING"
+          "version": "0.6.9.2",
+          "update_link": "https://raw.githubusercontent.com/H4nnib4l22/islandking-extension-updates/main/tango-tracker/tango_tracker_v0.6.9.2.xpi",
+          "update_hash": "sha256:65c0d5efc6ec696c4b6babd4069477a270a9da4e17077792586f88a9a413893d"
         }
       ]
     }

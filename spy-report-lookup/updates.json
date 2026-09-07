@@ -3,9 +3,9 @@
     "islandking-spy-lookup@islandking.ch": {
       "updates": [
         {
-          "version": "1.0.2.2",
-          "update_link": "https://raw.githubusercontent.com/H4nnib4l22/islandking-extension-updates/main/spy-report-lookup/islandking-spy-report-lookup-1.0.2.2.xpi",
-          "update_hash": "sha256:PENDING"
+          "version": "1.0.2.3",
+          "update_link": "https://raw.githubusercontent.com/H4nnib4l22/islandking-extension-updates/main/spy-report-lookup/islandking_spy_report_lookup_v1.0.2.3.xpi",
+          "update_hash": "sha256:63a3190d37f78f819e7295de59e90d2479c2655220567a5ee6775ba2c7ae177c"
         }
       ]
     }
