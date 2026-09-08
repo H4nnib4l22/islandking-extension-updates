@@ -3,9 +3,9 @@
     "islandking-auto-builder@local": {
       "updates": [
         {
-          "version": "0.2.1.1",
-          "update_link": "https://raw.githubusercontent.com/H4nnib4l22/islandking-extension-updates/main/auto-builder/islandking_auto_builder_v0.2.1.1.xpi",
-          "update_hash": "sha256:4253b0f1883ae72fb0263676ab811acd38ad92cafa0027f54480baeebf6f813d"
+          "version": "0.2.1.2",
+          "update_link": "https://raw.githubusercontent.com/H4nnib4l22/islandking-extension-updates/main/auto-builder/islandking_auto_builder_v0.2.1.2.xpi",
+          "update_hash": "sha256:a40058b91a1f42d8e3ae157635484e42861d98a2dedafb433876db9e386323ce"
         }
       ]
     }
