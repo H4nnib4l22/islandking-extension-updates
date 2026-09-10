@@ -1,0 +1,6 @@
+# Signierte .xpi enthalten einen echten GitHub-PAT im Klartext (background.js)
+# und duerfen NIE committed werden - GitHub scannt auch Zip/Archiv-Inhalte und
+# revoked jeden erkannten Token automatisch, egal ob das Repo public oder
+# privat ist. Verteilung laeuft ausschliesslich ueber GitHub Release Assets
+# (liegen ausserhalb des Git-Objektspeichers), s. updates.json/"update_link".
+*.xpi
