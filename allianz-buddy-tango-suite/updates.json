@@ -16,6 +16,11 @@
           "version": "1.5.10.1",
           "update_link": "https://github.com/H4nnib4l22/islandking-extension-updates/releases/download/allianz-buddy-tango-suite-v1.5.10.1/allianz_buddy_tango_suite_v1.5.10.1.xpi",
           "update_hash": "sha256:fd76a6fe3fbef0346f051b939d9b469fedebedef3afef5cf3972153846c89d46"
+        },
+        {
+          "version": "1.5.10.2",
+          "update_link": "https://github.com/H4nnib4l22/islandking-extension-updates/releases/download/allianz-buddy-tango-suite-v1.5.10.2/allianz_buddy_tango_suite_v1.5.10.2.xpi",
+          "update_hash": "sha256:a011a2ddc05499987aecf0eaf3a475c384ec15e249af561c062b2bd9ba478cd8"
         }
       ]
     }
