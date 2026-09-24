@@ -26,6 +26,11 @@
           "version": "0.6.10.4",
           "update_link": "https://github.com/H4nnib4l22/islandking-extension-updates/releases/download/tango-tracker-v0.6.10.4/tango_tracker_v0.6.10.4.xpi",
           "update_hash": "sha256:14835631a85cdc5b89319e885162202968b2a0e711a2d65982a4a261daa53c1a"
+        },
+        {
+          "version": "0.6.11.0",
+          "update_link": "https://github.com/H4nnib4l22/islandking-extension-updates/releases/download/tango-tracker-v0.6.11.0/tango_tracker_v0.6.11.0.xpi",
+          "update_hash": "sha256:f469dc3924d63709717ab8f53a0e8cdb50f7affe4aa361c8b95f1ff3bc4d2a5b"
         }
       ]
     }
